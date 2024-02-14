@@ -1,0 +1,62 @@
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0 30px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    margin: 30px 10px;
+    line-height: 1.5;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+        'Helvetica Neue', Arial, sans-serif;
+}
+
+#main {
+    margin: 20px 10px;
+    background-color: #F5F5F5;
+}
+
+#title {
+    text-align: center;
+    padding-top: 5px;
+}
+
+figcaption {
+    padding-top: 9px;
+    text-align: center;
+}
+
+#tribute-info>h3 {
+    text-align: center;
+}
+
+#tribute-info>ul>li {
+    padding: 4px;
+}
+
+#tribute-info {
+    margin: 0 50px;
+}
+
+#quote {
+    padding: 0 70px;
+}
+
+#footer {
+    text-align: center;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
